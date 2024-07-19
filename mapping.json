@@ -1,0 +1,59 @@
+{
+  "components": {
+    "Datepicker": {
+      "appearances": {
+        "default": {
+          "variantGroups": {
+            "status": {
+              "basic": {
+                "textColor": "color-primary-default"
+              },
+              "disabled": {
+                "textColor": "color-primary-default"
+              }
+            }
+          }
+        }
+      }
+    }
+  },
+  "strict": {
+    "text-font-family": "Nunito-Regular",
+
+    "text-heading-1-font-family": "Nunito-SemiBold",
+    "text-heading-1-font-size": 30,
+    "text-heading-1-font-weight": "600",
+
+    "text-heading-3-font-family": "Nunito-Bold",
+    "text-heading-3-font-size": 20,
+    "text-heading-3-font-weight": "700",
+
+    "text-heading-5-font-family": "Nunito-Regular",
+    "text-heading-5-font-size": 18,
+    "text-heading-5-font-weight": "400",
+
+    "text-subtitle-2-font-family": "Nunito-Bold",
+    "text-subtitle-2-font-size": 16,
+    "text-subtitle-2-font-weight": "700",
+
+    "text-paragraph-1-font-family": "Nunito-Bold",
+    "text-paragraph-1-font-size": 18,
+    "text-paragraph-1-font-weight": "700",
+
+    "text-paragraph-2-font-family": "Nunito-SemiBold",
+    "text-paragraph-2-font-size": 16,
+    "text-paragraph-2-font-weight": "600",
+
+    "text-label-font-family": "Nunito-SemiBold",
+    "text-label-font-size": 13,
+    "text-label-font-weight": "600",
+
+    "text-caption-1-font-family": "Nunito-Bold",
+    "text-caption-1-font-size": 14,
+    "text-caption-1-font-weight": "700",
+
+    "text-caption-2-font-family": "Nunito-SemiBold",
+    "text-caption-2-font-size": 18,
+    "text-caption-2-font-weight": "600"
+  }
+}
